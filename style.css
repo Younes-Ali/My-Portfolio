@@ -131,7 +131,7 @@ header {
     }
     .overlay {
       width: 100%;
-      min-height: 720px;
+      max-height: 720px;
       background: rgba(0, 0, 0, 0.395);
     }
   }
